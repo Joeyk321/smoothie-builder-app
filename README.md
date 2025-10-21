@@ -37,7 +37,7 @@ The following **stretch** functionality is implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='[walkthrough.gif](https://github.com/Joeyk321/smoothie-builder-app/blob/main/smootie+builder+walkthrough.gif?raw=true)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with ScreenToGif
 
