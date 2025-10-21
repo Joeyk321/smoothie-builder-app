@@ -54,3 +54,5 @@ Challenges encountered:
 Copyright 2025 Joey Katach
 
 Licensed under the Apache License, Version 2.0
+<img width="2780" height="1722" alt="image" src="https://github.com/user-attachments/assets/2c2a0000-3a4e-4263-baa4-c35b4743e8fe" />
+
